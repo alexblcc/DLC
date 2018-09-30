@@ -1,4 +1,4 @@
-// gcc -o main exo1.c -lgmp && ./main
+// gcc -o main exo2.c -lgmp && ./main 10
 
 #define TRUE 1
 #define FALSE 0
